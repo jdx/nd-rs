@@ -8,3 +8,4 @@ description = "library for nd"
 
 [dependencies]
 nd_lib = "0.1.0"
+clap = "2.32.0"
