@@ -7,3 +7,4 @@ repository = "https://github.com/jdxcode/nd"
 description = "library for nd"
 
 [dependencies]
+nd_lib = "0.1.0"
